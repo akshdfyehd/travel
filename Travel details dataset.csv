@@ -70,28 +70,28 @@
 69,Bangkok,9/08/2024,9/16/2024,8,Lila Patel,33,Female,Indian,Hostel,300,Plane,700
 70,Rome,2/14/2025,2/20/2025,6,Marco Rossi,41,Male,Italian,Hotel,1300,Train,100
 71,Bali,5/21/2025,5/29/2025,8,Sarah Brown,37,Female,British,Resort,1800,Plane,1000
-73,Bali Indonesia,8/05/2022,8/12/2022,7,Sarah Lee,35,Female,South Korean,Resort,500 USD,Plane,800 USD
-74,Tokyo Japan,1/01/2023,1/09/2023,8,Alex Kim,29,Male,American,Hotel,1000 USD,Train,200 USD
-75,Cancun Mexico,4/15/2023,4/22/2023,7,Maria Hernandez,42,Female,Mexican,Resort,800 USD,Plane,500 USD
-76,Paris France,6/07/2023,6/14/2023,7,John Smith,46,Male,British,Hotel,1200 USD,Plane,700 USD
-77,Cape Town SA,9/01/2023,9/10/2023,9,Mark Johnson,31,Male,South African,Guesthouse,400 USD,Car,300 USD
-78,Bali Indonesia,11/12/2023,11/19/2023,7,Amanda Chen,25,Female,Taiwanese,Resort,600 USD,Plane,700 USD
-79,Sydney Aus,2/05/2024,2/12/2024,7,David Lee,38,Male,Australian,Hotel,900 USD,Plane,600 USD
-80,Bangkok Thai,5/15/2024,5/22/2024,7,Nana Kwon,27,Female,Korean,Hotel,400 USD,Plane,400 USD
-81,New York USA,8/20/2024,8/27/2024,7,Tom Hanks,60,Male,American,Hotel,1500 USD,Plane,1000 USD
-82,Phuket Thai,1/01/2025,1/08/2025,7,Emma Watson,32,Female,British,Resort,700 USD,Plane,800 USD
+73,Bali Indonesia,8/05/2022,8/12/2022,7,Sarah Lee,35,Female,South Korean,Resort,500,Plane,800 USD
+74,Tokyo Japan,1/01/2023,1/09/2023,8,Alex Kim,29,Male,American,Hotel,1000,Train,200 USD
+75,Cancun Mexico,4/15/2023,4/22/2023,7,Maria Hernandez,42,Female,Mexican,Resort,800,Plane,500 USD
+76,Paris France,6/07/2023,6/14/2023,7,John Smith,46,Male,British,Hotel,1200,Plane,700 USD
+77,Cape Town SA,9/01/2023,9/10/2023,9,Mark Johnson,31,Male,South African,Guesthouse,400,Car,300 USD
+78,Bali Indonesia,11/12/2023,11/19/2023,7,Amanda Chen,25,Female,Taiwanese,Resort,600,Plane,700 USD
+79,Sydney Aus,2/05/2024,2/12/2024,7,David Lee,38,Male,Australian,Hotel,900,Plane,600 USD
+80,Bangkok Thai,5/15/2024,5/22/2024,7,Nana Kwon,27,Female,Korean,Hotel,400,Plane,400 USD
+81,New York USA,8/20/2024,8/27/2024,7,Tom Hanks,60,Male,American,Hotel,1500,Plane,1000 USD
+82,Phuket Thai,1/01/2025,1/08/2025,7,Emma Watson,32,Female,British,Resort,700,Plane,800
 83,Rome Italy,4/15/2025,4/22/2025,7,James Kim,41,Male,American,Hotel,100,,
-84,Paris,6/15/2021,6/20/2021,6,John Smith,35,Male,American,Hotel,800 USD,Plane,500 USD
-85,Tokyo,7/01/2021,7/10/2021,10,Sarah Lee,28,Female,Korean,Airbnb,500 USD,Train,300 USD
-86,Bali,8/10/2021,8/20/2021,11,Maria Garcia,42,Female,Spanish,Resort,1200 USD,Plane,700 USD
-87,Sydney,9/01/2021,9/10/2021,9,David Lee,45,Male,Australian,Hotel,900 USD,Plane,600 USD
-88,New York,10/15/2021,10/20/2021,6,Emily Davis,31,Female,American,Airbnb,700 USD,Car rental,200 USD
-89,London,11/20/2021,11/30/2021,11,James Wilson,29,Male,British,Hostel,300 USD,Plane,400 USD
-90,Dubai,1/01/2022,1/08/2022,8,Fatima Ahmed,24,Female,Emirati,Hotel,1000 USD,Plane,800 USD
-91,Bangkok,2/14/2022,2/20/2022,7,Liam Nguyen,26,Male,Vietnamese,Airbnb,400 USD,Train,100 USD
-92,Rome,3/10/2022,3/20/2022,11,Giulia Rossi,30,Female,Italian,Hostel,200 USD,Plane,350 USD
-93,Bali,4/15/2022,4/25/2022,11,Putra Wijaya,33,Male,Indonesian,Villa,1500 USD,Car rental,300 USD
-94,Seoul,5/01/2022,5/10/2022,10,Kim Min-ji,27,Female,Korean,Hotel,800 USD,Train,150 USD
+84,Paris,6/15/2021,6/20/2021,6,John Smith,35,Male,American,Hotel,800,Plane,500
+85,Tokyo,7/01/2021,7/10/2021,10,Sarah Lee,28,Female,Korean,Airbnb,500,Train,300
+86,Bali,8/10/2021,8/20/2021,11,Maria Garcia,42,Female,Spanish,Resort,1200,Plane,700
+87,Sydney,9/01/2021,9/10/2021,9,David Lee,45,Male,Australian,Hotel,900,Plane,600
+88,New York,10/15/2021,10/20/2021,6,Emily Davis,31,Female,American,Airbnb,700,Car rental,200
+89,London,11/20/2021,11/30/2021,11,James Wilson,29,Male,British,Hostel,300,Plane,400
+90,Dubai,1/01/2022,1/08/2022,8,Fatima Ahmed,24,Female,Emirati,Hotel,1000,Plane,800
+91,Bangkok,2/14/2022,2/20/2022,7,Liam Nguyen,26,Male,Vietnamese,Airbnb,400,Train,100
+92,Rome,3/10/2022,3/20/2022,11,Giulia Rossi,30,Female,Italian,Hostel,200,Plane,350
+93,Bali,4/15/2022,4/25/2022,11,Putra Wijaya,33,Male,Indonesian,Villa,1500,Car rental,300
+94,Seoul,5/01/2022,5/10/2022,10,Kim Min-ji,27,Female,Korean,Hotel,800,Train,150
 95,Paris,6/15/2022,6/20/2022,5,John Smith,35,Male,USA,Hotel,500,Plane,800
 96,Tokyo,9/01/2022,9/10/2022,9,Emily Johnson,28,Female,Canada,Airbnb,400,Train,200
 97,Sydney,11/23/2022,12/02/2022,9,David Lee,45,Male,South Korea,Hostel,200,Plane,1200
